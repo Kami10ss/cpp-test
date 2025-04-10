@@ -2,12 +2,11 @@
 using namespace std;
 int main()
 { double liczba10; // liczba z u³amkiem dziesiêtnym
- double ulamek;
     int n;
     int t[10]={0};
     int u[100]={0}; //na ulamek binarny
     int i=9;
-cout<<"Podaj liczbe";
+
 cin>>liczba10; //wczytanie liczby z ulamkiem
 //cin>>n;
 n=(int) liczba10; //pobieramy czesc calkowita
